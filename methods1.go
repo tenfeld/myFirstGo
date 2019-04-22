@@ -1,3 +1,5 @@
+// A Tour of Go : Methods and interfaces
+// https://go-tour-jp.appspot.com/methods/1
 package main
 
 import (

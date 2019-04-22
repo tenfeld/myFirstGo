@@ -1,9 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main(){
-	fmt.Print("Hello, World!\n")
-	fmt.Print("Hello, World!\n")
-
+func main() {
+	fmt.Println("Hello, World!")	
 }
